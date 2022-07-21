@@ -85,7 +85,7 @@ public class Main {
                 System.out.print(false);
                 break;
             }
-			if(prev > cur && is_dec == false){
+		if(prev > cur && is_dec == false){
                 System.out.print(false); 
                 break;
             } 
